@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sarunas. I am a Physics, Astrophysics & Cosmology graduate with strong programming skills.\
+My name is Sarunas. I am a Physics, Astrophysics & Cosmology graduate with strong programming skills.
 
 ⚡ I am a strong Python user with years of experience. ⚡\
 ⚡ I have experience in creating cloud systems using AWS and Azure. ⚡\
