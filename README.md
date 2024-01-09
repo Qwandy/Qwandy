@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Sarunas. I am a Physics, Astrophysics & Cosmology graduate with strong programming skills.
+My name is Sarunas. I am a Physics, Astrophysics & Cosmology graduate with strong programming skills.\
 
-⚡ I am a strong Python user with years of experience. ⚡
-⚡ I have experience in creating cloud systems using AWS and Azure. ⚡
-⚡ I have dedicated time to learning and using SQL and R. ⚡
-⚡ Feel free to check out my 'Multinational Retail Data Centralisation' and 'Hangman' repos. ⚡
+⚡ I am a strong Python user with years of experience. ⚡\
+⚡ I have experience in creating cloud systems using AWS and Azure. ⚡\
+⚡ I have dedicated time to learning and using SQL and R. ⚡\
+⚡ Feel free to check out my 'Multinational Retail Data Centralisation' and 'Hangman' repos. ⚡\
 ⚡ When i'm not coding or learning I like to practice martial arts, cycle and play the bass guitar. ⚡
 
 
